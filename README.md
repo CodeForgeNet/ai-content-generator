@@ -85,7 +85,7 @@ An AI-powered platform for generating and managing content. Built with **Next.js
 
 ## Live Demo :globe_with_meridians:
 
-<a href="">
+<a href="https://ai-content-generator-peach-nu.vercel.app/">
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
 </a>
 
