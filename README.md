@@ -49,7 +49,7 @@ An AI-powered platform for generating and managing content. Built with **Next.js
 - **Clone the repository**
 
   ```bash
-  git clone https://github.com/shivani24-42/ai-content-generator.git
+  git clone https://github.com/CodeForgeNet/AI-Content-Generator.git
   ```
 
 - **Navigate to the project directory**
