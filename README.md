@@ -2,7 +2,7 @@
 
 ## Overview :mag:
 
-An AI-powered platform for generating and managing content. Built with **Next.js** and integrated with **Clerk** for authentication, **Gemini API** for AI-generated content, and **Drizzle ORM** for database management. Users can create, track, and manage AI-generated content, while administrators can oversee usage and user management.
+An AI-powered platform for generating and managing content. Built with **TypeScript** and integrated with **Clerk** for authentication, **Gemini API** for AI-generated content, and **Drizzle ORM** for database management. Users can create, track, and manage AI-generated content, while administrators can oversee usage and user management.
 
 ## Features :sparkles:
 
